@@ -1,0 +1,6 @@
+*.csv
+*.sh
+Makefile
+bin/output
+obj/*.o
+results/*
