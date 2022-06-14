@@ -4,3 +4,4 @@ Makefile
 bin/output
 obj/*.o
 results/*
+.DS_STORE
